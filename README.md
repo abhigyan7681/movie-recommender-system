@@ -42,17 +42,3 @@ jupyter notebook movie_recommender.ipynb
 - No content-based features used
 ```
 
----
-
-**Step 6 — Upload files to GitHub**
-
-On your repo page → click `Add file → Upload files` → drag and drop everything (the notebook, requirements.txt, plots.png, and the ml-100k folder) → click `Commit changes`.
-
----
-
-**One extra thing worth adding** — a `.gitignore` file. Create it on GitHub (`Add file → Create new file`, name it `.gitignore`) and paste:
-```
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
