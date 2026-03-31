@@ -40,5 +40,5 @@ jupyter notebook movie_recommender.ipynb
 - High RMSE due to dataset sparsity
 - Cold start problem for new users
 - No content-based features used
-```
+
 
